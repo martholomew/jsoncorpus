@@ -46,7 +46,7 @@ Text Source: [*Odyssey* by Homer](https://sacred-texts.com/cla/homer/greek/) ([P
 * SGGN & PL
   * Headers in text
 * TSOJ & LBRUT
-  * Manuscript markings &c
+  * Manuscript markings &c (honestly, redo these two)
 * Links
   * https://hdl.huntington.org/digital/collection/p15150coll7/id/2359/rec/26
   * https://www.chaucermss.org
