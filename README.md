@@ -20,14 +20,34 @@ Text Source: [*Sir Gawain and the Green Knight* by Gawain Poet](http://ota.ox.ac
 Text Source: [*Paradise Lost First Edition (1667)* by John Milton](https://www.gutenberg.org/files/20/20-0.txt) ([Project Gutenberg License](https://www.gutenberg.org/license))  
 Comparative Text: [*Paradise Lost First Edition (1667)* by John Milton](https://archive.org/details/bub_gb_F08CAAAAQAAJ/) ([Public Domain](https://creativecommons.org/publicdomain/mark/1.0/)), [*Paradise Lost Second Edition (1674)* by John Milton](https://archive.org/details/ParadiseLost1674CopyB/) ([Public Domain](https://creativecommons.org/publicdomain/mark/1.0/))
 
+### (GRC) [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek):
+##### (IL) [Illiad](https://en.wikipedia.org/wiki/Iliad)
+Text Source: [*Illiad* by Homer](https://sacred-texts.com/cla/homer/greek/) ([Public Domain](https://creativecommons.org/publicdomain/mark/1.0/))
+
+##### (ODY) [Odyssey](https://en.wikipedia.org/wiki/Odyssey)
+Text Source: [*Odyssey* by Homer](https://sacred-texts.com/cla/homer/greek/) ([Public Domain](https://creativecommons.org/publicdomain/mark/1.0/))
+
 *note: organized by [ISO 639-2 Code](https://www.loc.gov/standards/iso639-2/php/code_list.php).*
 
 ## Formatting:
 * ¶ - Paragraph
 * \* - Italics
 
-## TODO:
-* Finish the concordance of LBRUT
-* Find text source for second edition of PL
-* Find what recensions COAM and SGGN are
-* Organize links (https://hdl.huntington.org/digital/collection/p15150coll7/id/2359/rec/26) (https://www.chaucermss.org/) (https://github.com/severdia/PlayShakespeare.com-XML)
+## Issues:
+* COAM
+  * Not unicode
+* LBRUT
+  * b has weirdness
+  * Finish the concordance
+* PL
+  * Find text source for second edition
+* COAM & SGGN
+  * Find what recensions they are
+* SGGN & PL
+  * Headers in text
+* TSOJ & LBRUT
+  * Manuscript markings &c
+* Links
+  * https://hdl.huntington.org/digital/collection/p15150coll7/id/2359/rec/26
+  * https://www.chaucermss.org
+  * https://github.com/severdia/PlayShakespeare.com-XML
