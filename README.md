@@ -43,8 +43,6 @@ Text Source: [*Odyssey* by Homer](https://sacred-texts.com/cla/homer/greek/) ([P
   * Find text source for second edition
 * COAM & SGGN
   * Find what recensions they are
-* SGGN & PL
-  * Headers in text
 * TSOJ & LBRUT
   * Manuscript markings &c (honestly, redo these two)
 * Links
