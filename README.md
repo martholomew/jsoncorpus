@@ -1,4 +1,4 @@
-# Epic Poem Reader
+# JSON Corpus
 ## Poems:
 ### (ENM) [Middle English](https://en.wikipedia.org/wiki/Middle_English):
 ##### (TSOJ) [The Siege of Jerusalem](https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(poem))  
