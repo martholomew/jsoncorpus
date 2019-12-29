@@ -49,3 +49,4 @@ Text Source: [*Odyssey* by Homer](https://sacred-texts.com/cla/homer/greek/) ([P
   * https://hdl.huntington.org/digital/collection/p15150coll7/id/2359/rec/26
   * https://www.chaucermss.org
   * https://github.com/severdia/PlayShakespeare.com-XML
+  * https://www.gutenberg.org/files/14568/14568-h/14568-h.htm#yogh (SGGN)
