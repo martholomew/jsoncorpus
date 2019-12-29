@@ -37,7 +37,7 @@ Text Source: [*Odyssey* by Homer](https://sacred-texts.com/cla/homer/greek/) ([P
 ## Formatting:
 * ¶ - Paragraph
 * \* - Italics
-* \t - Tab/Linebreak
+* \t - Tab
 
 ## Issues:
 * COAM
