@@ -2,8 +2,8 @@
 ## Poems:
 ### (ANG) [Old English](https://en.wikipedia.org/wiki/Old_English):
 ##### (BEOW) [Beowulf](https://en.wikipedia.org/wiki/Beowulf)
-Text Source: [*Paradise Lost First Edition (1667)* by John Milton](https://www.sacred-texts.com/neu/ascp/a04_01.htm) ([Public Domain](https://creativecommons.org/publicdomain/mark/1.0/))  
-Comparative Text: [Electronic Beowulf 4.1](http://ebeowulf.uky.edu/ebeo4.0/CD/main.html) (unknown)
+Text Source: [*Beowulf* by Anonymous](https://www.sacred-texts.com/neu/ascp/a04_01.htm) ([Public Domain](https://creativecommons.org/publicdomain/mark/1.0/))  
+Comparative Text: [*Electronic Beowulf 4.1* by Kevin Kiernan and Emil Iacob](http://ebeowulf.uky.edu/ebeo4.0/CD/main.html) (unknown)
 
 ### (ENG) English:
 ##### (PL) [Paradise Lost](https://en.wikipedia.org/wiki/Paradise_Lost)
